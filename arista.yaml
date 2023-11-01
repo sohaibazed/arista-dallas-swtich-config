@@ -2,7 +2,7 @@ interface Ethernet1
    description Spine-1-et1/1
    mtu 9214
    no switchport
-   ip address 172.168.1.1/31
+   ip address 172.168.1.2/31
 
 interface Ethernet8/1
    description ck428-et8/1
